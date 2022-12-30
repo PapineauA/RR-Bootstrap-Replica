@@ -1,4 +1,7 @@
-import './App.css';
+import "./App.css";
+import TopBar from "./components/TopBar";
+import Background from "./components/Background";
+import Storelistings from "./components/StoreListing";
 
 function App() {
   return (
